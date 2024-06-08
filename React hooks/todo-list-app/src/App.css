@@ -1,0 +1,26 @@
+body {
+  background-color: bisque;
+}
+
+.main-div {
+  text-align: center;
+  padding-top: 150px;
+  max-width: 680px;
+  margin: 0 auto;
+
+}
+
+.show-item {
+  display: flex;
+  justify-content: space-between;
+  background-color: #5437dc;
+  color: #fff;
+  padding: 0 18px;
+  margin-bottom: 10px;
+}
+
+.btn-end {
+  background-color: #e9ecef;
+  border-color: #e9ecef;
+  color: #000;
+}
